@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Artem
-- 👀 I’m interested in DevOps
-- 🌱 How to reach me - nevadaltd88@gmail.com :)
+- 👀 I’m a DevOps engineer
+- 🌱 How to reach me - nevadaltd88@gmail.com
